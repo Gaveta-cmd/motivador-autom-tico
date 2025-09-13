@@ -27,8 +27,8 @@
 ```bash
 motivador-automatico/
 │
-├── config.py           # Configurações do e-mail (remetente, senha e destinatário)
+├── README.md           # Documentação do projeto
+├── config.py           # Configurações do e-mail (remetente, senha e destinatário)  
 ├── main.py             # Arquivo principal com o loop de agendamento
 ├── motivador.py        # Módulo que acessa a API e retorna a frase
-├── requirements.txt    # Dependências do projeto
-└── README.md           # Documentação do projeto
+└── requirements.txt    # Dependências do projeto
